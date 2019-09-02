@@ -1,7 +1,7 @@
 # JavaWebCrawling
 
 **Disclaimer: The code has to be modified in order to be used in the real case.
-There three parts you want to modify in `Sprout.java`.**
+There are three parts you want to modify in `Sprout.java`.**
 
 This WebCrawler application crawls the website and reports the findings, which are:
 - The total number of distinct URLs found on the site
